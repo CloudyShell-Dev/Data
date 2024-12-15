@@ -64,7 +64,7 @@ npm run start:prod
 
 ## 📚 Documentation
 
-- [Documentation de l'API](/docs/API_DOCUMENTATION.md)
+- [Documentation de l'API](/docs/API_Documentation.md)
 
 ## 🔧 Configuration
 
