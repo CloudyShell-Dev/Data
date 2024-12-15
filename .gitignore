@@ -119,10 +119,10 @@ dist
 
 # Adding some shit
 client/
-doc/Admin_Panel.md
-doc/DEPLOYMENT.md
-doc/publish-plugin.md
-doc/Use.md
+docs/Admin_Panel.md
+docs/DEPLOYMENT.md
+docs/publish-plugin.md
+docs/Use.md
 test/
 assets/dark.svg
 assets/light.svg
