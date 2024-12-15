@@ -1,4 +1,3 @@
-```markdown
 # Documentation CloudyShell API
 
 ## 🌐 Résumé
@@ -90,5 +89,4 @@ useEffect(() => {
   client.start();
   return () => client.stop();
 }, []);
-```
 ```
